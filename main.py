@@ -480,4 +480,4 @@ async def channels(ctx):
 
 
 ##BOT TOKEN##
-bot.run ("NDUyMTIzMzg5Mzk4ODc2MTYz.XsLOrQ.jv88kLOmCSvk-goX4cbbED3_kio") # Here you must put your bots token.
+bot.run ("token") # Here you must put your bots token.
